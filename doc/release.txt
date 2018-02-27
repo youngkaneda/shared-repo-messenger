@@ -1,0 +1,8 @@
+release 01/02/2018
+- problemas com duplicação de exibição de mensagens de quem envia [OK]
+- bloqueio da listagem de mensagens (somente apresenta se eu mandar uma) [OK]
+- manutenção do último ID (ID é mantido na primeira linha do arquivo) [OK]
+
+release 02/02/2018
+- problema de garantia do ID correto no caso de enviar mensagens ao mesmo tempo? [OK]
+- problema de concorrência [OK]
